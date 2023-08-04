@@ -1,0 +1,13 @@
+coverage==4.5.3
+Django~=3.0.3
+django-appconf==1.0.3
+-e git+https://github.com/divio/django-classy-tags.git@4c94d0354eca1600ad2ead9c3c151ad57af398a4#egg=django-classy-tags
+django-crispy-forms==1.7.2
+django-imagekit==4.0.2
+django-sekizai==1.0.0
+pilkit==2.0
+Pillow==6.2.1
+psycopg2-binary==2.8.3
+pytz==2019.2
+six==1.12.0
+sqlparse==0.3.0
